@@ -11,7 +11,7 @@ NOTE: Modify the script to use your own account details...
 $ ./convoy-build.sh
 Syntax: convoy-build <consul version> <envoy version>
 
-Example: convoy-build 1.14.0-ent v1.24.0
+Example: convoy-build.sh 1.14.0-ent v1.24.0
 
 Consul versions: https://hub.docker.com/r/hashicorp/consul-enterprise/tags
 Envoy versions: https://hub.docker.com/r/envoyproxy/envoy/tags
