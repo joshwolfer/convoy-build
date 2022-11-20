@@ -13,5 +13,5 @@ Syntax: convoy-build <consul version> <envoy version>
 
 Example: convoy-build.sh 1.14.0-ent v1.24.0
 
-Consul versions: https://hub.docker.com/r/hashicorp/consul-enterprise/tags
-Envoy versions: https://hub.docker.com/r/envoyproxy/envoy/tags
+* Consul versions: https://hub.docker.com/r/hashicorp/consul-enterprise/tags
+* Envoy versions: https://hub.docker.com/r/envoyproxy/envoy/tags
