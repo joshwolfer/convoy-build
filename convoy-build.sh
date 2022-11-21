@@ -6,7 +6,7 @@
 if [ $# -eq 0 ]; then
     echo "Syntax: convoy-build <consul version> <envoy version>"
     echo ""
-    echo "Example: convoy-build 1.14.0-ent v1.24.0"
+    echo "Example: ./convoy-build.sh 1.14.0-ent v1.24.0"
     echo ""
     echo "  Consul versions: https://hub.docker.com/r/hashicorp/consul-enterprise/tags"
     echo "  Envoy versions: https://hub.docker.com/r/envoyproxy/envoy/tags"
